@@ -18,6 +18,12 @@ margin: auto;
 box-shadow: 3px 3px 3px ;
 }
 
+div{
+
+text-align: center;
+padding: 8px;
+
+}
 footer{
 
     text-align: center;
